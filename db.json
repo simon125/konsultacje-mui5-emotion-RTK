@@ -1,0 +1,11 @@
+{
+  "todos": [
+    { "id": 1, "name": "Pouczyć się JavaScriptu", "status": "Todo" },
+    {
+      "id": 2,
+      "name": "Bardzo długie zadanie któro nie mieście się",
+      "status": "In progress"
+    },
+    { "id": 3, "name": "Testowe zadanie", "status": "Done" }
+  ]
+}
